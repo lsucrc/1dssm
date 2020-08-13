@@ -1,2 +1,5 @@
 # 1dssm
-Modeling the storm surge using Dean and Dalrymple method 1992
+1D Storm Surge Model
+
+This Jupyter Notebook contains the modeling and plotting functions for one dimensional storm surge using the Dean and Dalrymple method (1992)
+
